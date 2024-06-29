@@ -1,0 +1,11 @@
+@font-face {
+  font-family: "Roboto";
+  src: url(./Roboto-Medium.ttf);
+  font-size: 400;
+}
+
+@font-face {
+  font-family: "WorkSans";
+  src: url(./WorkSans-Medium.ttf);
+  font-size: 400;
+}
