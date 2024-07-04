@@ -2,7 +2,18 @@
   box-sizing: border-box;
   font-family: Roboto;
 }
+html {
 
+  width: 100%;
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
+body {
+  width: 100%;
+  max-width: 100%;
+  overflow-x: hidden;
+}
 .about_section {
   background-image: url(./img/IMAGE.png);
 
@@ -28,7 +39,7 @@ header {
   font-family: WorkSans;
   color: #ffffff;
   font-weight: 400;
-  font-size: 19px;
+  font-size: calc(1vw + 6.271px);
   line-height: 79%;
   margin-bottom: calc(15.9vw + 20.33px);
 }
